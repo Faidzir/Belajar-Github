@@ -1,0 +1,2 @@
+GIT & GITHUB
+- This file created so I know how to create a new file inside repository.
