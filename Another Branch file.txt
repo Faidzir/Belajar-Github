@@ -1,3 +1,6 @@
 This created to create file in another branch.
 This line created to show the update in this file.
-This line created in Cloning-main-2 branch.
+This line created after the merge
+This line created in Cloning-main-branch-1
+Add another line in Cloning-main-branch-1
+main
