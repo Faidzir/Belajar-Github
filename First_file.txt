@@ -1,4 +1,4 @@
 GIT & GITHUB
 - This file created so I know how to create a new file inside repository.
 - This line is used to edit the this file.
-- This line will be deleted.
+
